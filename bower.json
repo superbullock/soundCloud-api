@@ -1,0 +1,17 @@
+{
+  "name": "soundCloud-api",
+  "version": "0.1.0",
+  "homepage": "https://github.com/superbullock/soundCloud-api",
+  "authors": [
+    "DANIEL BULLOCK <DANIEL.I.BULLOCK@gmail.com>"
+  ],
+  "description": "soundCloud api project",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
