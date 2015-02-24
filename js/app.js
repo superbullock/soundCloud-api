@@ -1,1 +1,1 @@
-angular.module('soundCloudApp', []);
+angular.module('sounder', []);
